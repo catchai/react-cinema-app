@@ -1,5 +1,5 @@
 variable "prefix" {
-  default = "cinema-react-eddie"
+  default = "cinema-react-ale"
 }
 
 variable "project" {
